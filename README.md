@@ -2,7 +2,7 @@
 
 <p>
     Resultado teste:<br>
-  <img width= "600" src="assets/login.gif">
+  <img width= "600" src="assets/login-teste.gif">
 </p>
 
 
