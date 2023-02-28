@@ -1,7 +1,7 @@
 # tela-login
 
 <p>
-    Resultado teste:
+    Resultado teste:<br>
   <img width= "600" src="assets/login.gif">
 </p>
 
